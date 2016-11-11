@@ -4,3 +4,6 @@ C:\Users\herrcyklist\Source\Repos\L0002B\Lab1\Lab1\bin\Debug\Lab1.pdb
 C:\Users\herrcyklist\Source\Repos\L0002B\Lab1\Lab1\obj\Debug\Lab1.csprojResolveAssemblyReference.cache
 C:\Users\herrcyklist\Source\Repos\L0002B\Lab1\Lab1\obj\Debug\Lab1.exe
 C:\Users\herrcyklist\Source\Repos\L0002B\Lab1\Lab1\obj\Debug\Lab1.pdb
+C:\Users\herrcyklist\Documents\GitHub\L0002B\Lab1\Lab1\bin\Debug\Lab1.exe.config
+C:\Users\herrcyklist\Documents\GitHub\L0002B\Lab1\Lab1\obj\Debug\Lab1.exe
+C:\Users\herrcyklist\Documents\GitHub\L0002B\Lab1\Lab1\obj\Debug\Lab1.pdb
